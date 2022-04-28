@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "ecommerceappf611e878": {}
+        "ecommerceappf611e878": {},
+        "true": {}
       },
       "function": {
         "ecommerceappf611e878PostConfirmation": {
